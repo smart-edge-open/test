@@ -1,1 +1,1 @@
-echo "external scrips"
+echo "running external scripts"
