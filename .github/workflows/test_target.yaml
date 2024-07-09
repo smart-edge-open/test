@@ -15,3 +15,7 @@ jobs:
 
     - name: Run a one-line script
       run: echo "Hello, World!"
+
+    - name: Run external scropt
+      run: bash script.sh
+  
